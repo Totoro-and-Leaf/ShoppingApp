@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <!--Setting the gradient color as background-->
+            <gradient
+                android:angle="270"
+                android:startColor="#FFFFFF"
+                android:centerColor="#FFFFFF"
+                android:endColor="#add8e6"
+                android:type="linear" />
+        </shape>
+    </item>
+    <item>
+        <!--Adding the icon to the screen-->
+        <bitmap
+            android:src="@drawable/cartscanicon"
+            android:gravity="center"/>
+    </item>
+</layer-list>

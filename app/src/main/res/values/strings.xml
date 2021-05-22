@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Shoping</string>
+    <string name="MM">MM</string>
+    <string name="YY">YY</string>
+    <string name="checkoutDesc">Disclamer: By clicking the PAY button, you are agree to share the card credential to our company, etc.</string>
+</resources>
